@@ -1,4 +1,4 @@
-# shahinur Islam
+# Shahinur Islam
 junior Frontend Developer
 <h1 align="center">Hi 👋, I'm MD SHAHINUR ISLAM</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
